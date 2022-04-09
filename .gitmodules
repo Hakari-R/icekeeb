@@ -1,6 +1,6 @@
 [submodule "gateware/build"]
 	path = gateware/build
-	url = https://github.com/no2fpga/no2build.git
+	url = https://github.com/Hakari-R/no2build.git
 [submodule "gateware/cores/no2usb"]
 	path = gateware/cores/no2usb
 	url = https://github.com/no2fpga/no2usb.git
